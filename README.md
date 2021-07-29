@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a software engineer with more than 8 years working in the PHP and JavaScript ecosystem, most of the time working as a backend developer. 
+I'm a software engineer with more than 9 years working in the PHP and JavaScript ecosystem, most of the time working as a backend developer. 
 
 My focus as an engineer is on the core concepts of software development and I think this focus is helping me when I need to learn something new or when it's necessary to make tradeoffs between technologies.
 
